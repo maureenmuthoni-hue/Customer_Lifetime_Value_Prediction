@@ -197,7 +197,3 @@ Load CSV  ──►  Explore & Clean  ──►  Train/Test Split (80/20)
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-
-<div align="center">
-  Made with  using Python, scikit-learn & FastAPI
-</div>
